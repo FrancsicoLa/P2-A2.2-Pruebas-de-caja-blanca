@@ -1,1 +1,0 @@
-{"command":"python -m pytest -m path -v --color=no --cov=process --cov-report=term-missing --cov-branch","exit_code":0,"environment":"Visual Studio Code"}
