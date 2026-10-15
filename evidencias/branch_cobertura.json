@@ -1,1 +1,1 @@
-{"command": "python -m pytest -m branch -v --color=no --cov=process --cov-report=term-missing --cov-branch", "exit_code": 0}
+{"command":"python -m pytest -m branch -v --color=no --cov=process --cov-report=term-missing --cov-branch","exit_code":0,"environment":"Visual Studio Code"}

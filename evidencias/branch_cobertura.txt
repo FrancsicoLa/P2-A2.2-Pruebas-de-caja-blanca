@@ -3,7 +3,7 @@ python -m pytest -m branch -v --color=no --cov=process --cov-report=term-missing
 ======================================= test session starts =======================================
 platform win32 -- Python 3.12.14, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\franc\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
 cachedir: .pytest_cache
-rootdir: C:\Users\franc\Documents\Codex\2026-10-14\cha\outputs\P2_A2_2
+rootdir: C:\Users\franc\Documents\Codex\2026-10-14\cha\work\vscode_stages\branch
 configfile: pytest.ini
 plugins: cov-7.1.0
 collecting ... collected 2 items / 1 deselected / 1 selected
@@ -18,4 +18,4 @@ Name         Stmts   Miss Branch BrPart  Cover   Missing
 process.py       8      0      6      0   100%
 --------------------------------------------------------
 TOTAL            8      0      6      0   100%
-================================= 1 passed, 1 deselected in 0.05s =================================
+================================= 1 passed, 1 deselected in 0.11s =================================

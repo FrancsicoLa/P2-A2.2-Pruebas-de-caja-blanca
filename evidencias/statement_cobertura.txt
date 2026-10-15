@@ -3,7 +3,7 @@ python -m pytest -m statement -v --color=no --cov=process --cov-report=term-miss
 ======================================= test session starts =======================================
 platform win32 -- Python 3.12.14, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\franc\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
 cachedir: .pytest_cache
-rootdir: C:\Users\franc\Documents\Codex\2026-10-14\cha\outputs\P2_A2_2
+rootdir: C:\Users\franc\Documents\Codex\2026-10-14\cha\work\vscode_stages\statement
 configfile: pytest.ini
 plugins: cov-7.1.0
 collecting ... collected 1 item
@@ -18,4 +18,4 @@ Name         Stmts   Miss  Cover   Missing
 process.py       8      0   100%
 ------------------------------------------
 TOTAL            8      0   100%
-======================================== 1 passed in 0.05s ========================================
+======================================== 1 passed in 0.12s ========================================

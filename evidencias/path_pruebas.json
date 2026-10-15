@@ -1,0 +1,1 @@
+{"command":"python -m pytest -m path -v --color=no","exit_code":0,"environment":"Visual Studio Code"}

@@ -1,1 +1,1 @@
-{"command": "python -m pytest -m statement -v --color=no", "exit_code": 0}
+{"command":"python -m pytest -m statement -v --color=no","exit_code":0,"environment":"Visual Studio Code"}
