@@ -1,0 +1,1 @@
+{"command": "python -m pytest -m branch -v --color=no", "exit_code": 0}
