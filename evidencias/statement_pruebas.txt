@@ -1,0 +1,13 @@
+python -m pytest -m statement -v --color=no
+
+======================================= test session starts =======================================
+platform win32 -- Python 3.12.14, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\franc\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\franc\Documents\Codex\2026-10-14\cha\outputs\P2_A2_2
+configfile: pytest.ini
+plugins: cov-7.1.0
+collecting ... collected 1 item
+
+test_process.py::test_statement_coverage[S1-A] PASSED                                        [100%]
+
+======================================== 1 passed in 0.01s ========================================
